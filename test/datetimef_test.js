@@ -1,7 +1,7 @@
 #target "InDesign"
 #include "../datetimef.js"
 
-var today = new Date(2014, 2, 8, 13, 23, 46, 300, "-9"); 
+var today = new Date(2014, 2, 8, 13, 23, 46, 300); 
 // => Sat Mar 08 2014 13:23:46 GMT+0900
 
 var ret = [];
